@@ -11,7 +11,7 @@ O objetivo deste projeto é construir uma aplicação que armazene arquivos de v
 A aplicação deve conter contemplar as seguintes funcionalidades:
 
 - **Cadastro de usuários**. Apenas nome e credenciais (*e-mail* e *senha*)
-- **Upload de arquivos**, com um tamanho máximo configurado via arquivo de propriedades.
+- **Upload de arquivos**, com um tamanho máximo configurado via arquivo de propriedades ou em uma tabela específica no banco de dados.
 - **Compartilhamento de arquivos** e/ou diretórios com outros usuários cadastrados na aplicação. Ao adicionar um usuário para ter acesso a um arquivo/diretório, deve ser enviado um e-mail para o mesmo com o link para este arquivo.
 - **Busca e Filtragem de arquivos** por:
 	- Nome
